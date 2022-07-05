@@ -1,0 +1,9 @@
+D:\Zoma\Zoma\bin\Debug\Zoma.exe.config
+D:\Zoma\Zoma\bin\Debug\Zoma.exe
+D:\Zoma\Zoma\bin\Debug\Zoma.pdb
+D:\Zoma\Zoma\obj\Debug\Zoma.csprojAssemblyReference.cache
+D:\Zoma\Zoma\obj\Debug\Zoma.Properties.Resources.resources
+D:\Zoma\Zoma\obj\Debug\Zoma.csproj.GenerateResource.cache
+D:\Zoma\Zoma\obj\Debug\Zoma.csproj.CoreCompileInputs.cache
+D:\Zoma\Zoma\obj\Debug\Zoma.exe
+D:\Zoma\Zoma\obj\Debug\Zoma.pdb
